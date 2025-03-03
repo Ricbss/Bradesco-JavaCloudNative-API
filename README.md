@@ -1,13 +1,24 @@
-# Santander Dev Week 2023 Java API
+Bradesco Java Cloud
+Bem-vindo à RESTful API desenvolvida para o Bradesco Java Cloud, construída com Java 17 e Spring Boot 3 para oferecer alto desempenho, escalabilidade e facilidade de manutenção.
 
-RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+Principais Tecnologias
+Java 17 – A mais recente versão LTS do Java, trazendo melhorias significativas de performance e recursos avançados.
+Spring Boot 3 – Framework que agiliza o desenvolvimento ao oferecer configuração automática e integração simplificada.
+Spring Data JPA – Abstração poderosa para manipulação de bancos de dados SQL, reduzindo a complexidade do código.
+OpenAPI (Swagger) – Documentação de API clara e intuitiva, facilitando a integração e o uso da aplicação.
+Railway – Plataforma de deploy na nuvem que simplifica a hospedagem e o monitoramento, além de oferecer suporte a bancos de dados e CI/CD pipelines.
+Figma – Modelagem da API
+A concepção desta API foi auxiliada pelo Figma, ferramenta que permitiu uma melhor abstração do domínio, facilitando a análise e o projeto da solução.
 
-## Principais Tecnologias
- - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
- - **Spring Boot 3**: Trabalharemos com a mais nova versão do Spring Boot, que maximiza a produtividade do desenvolvedor por meio de sua poderosa premissa de autoconfiguração;
- - **Spring Data JPA**: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
- - **OpenAPI (Swagger)**: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
- - **Railway**: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
+📌 Diagrama de Classes – Estrutura da API
+(Insira aqui um link ou imagem do diagrama, caso disponível.)
+
+🔍 Documentação da API (Swagger)
+A API está documentada e disponível para consulta via Swagger:
+🔗 Acesse a documentação aqui
+
+⚠️ Observação: Esta API estará disponível no Railway por tempo limitado. No entanto, o código-fonte é open-source, então fique à vontade para clonar, modificar e adaptar para seus próprios projetos. Se compartilhar sua versão, não esqueça de nos marcar! 🚀😃
+
 
 ## [Link do Figma](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
 
